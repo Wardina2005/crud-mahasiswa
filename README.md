@@ -1,53 +1,49 @@
-🎓 CRUD Mahasiswa – Laravel 11
+# 🎓 CRUD Mahasiswa – Laravel 11
 
-Aplikasi pengelolaan data mahasiswa berbasis Laravel dengan fitur CRUD lengkap.
-Dibuat untuk memenuhi tugas UTS Pemrograman Berbasis Framework.
+![Laravel](https://img.shields.io/badge/Laravel-11-red)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-✨ Tentang Project
+Aplikasi CRUD untuk mengelola data mahasiswa.  
+Dibuat sebagai tugas UTS mata kuliah *Pemrograman Berbasis Framework*.
 
-Project ini merupakan aplikasi sederhana namun fungsional yang digunakan untuk mengelola data mahasiswa secara digital. Aplikasi ini dilengkapi fitur CRUD serta beberapa fitur tambahan yang mempermudah proses administrasi data.
+---
 
-🚀 Fitur Utama
+## ✨ Fitur
+- ✅ Tambah data mahasiswa  
+- ✅ Edit data mahasiswa  
+- ✅ Hapus data  
+- ✅ Pencarian data  
+- ✅ Export PDF  
+- ✅ Export Excel  
+- ✅ Pagination  
 
-✅ Create – Menambahkan data mahasiswa baru
-✅ Read – Menampilkan daftar mahasiswa dalam tabel
-✅ Update – Mengedit data mahasiswa
-✅ Delete – Menghapus data mahasiswa
-✅ Search – Mencari mahasiswa berdasarkan kata kunci
-✅ Export PDF – Mengunduh data mahasiswa dalam format PDF
-✅ Export Excel – Mengunduh data dalam format XLSX
-✅ Pagination – Membagi data menjadi beberapa halaman agar rapi
+---
 
-🛠️ Teknologi yang Digunakan
+## 🛠 Teknologi
+- Laravel 11  
+- PHP 8.2  
+- MySQL  
+- Bootstrap 5  
 
-Laravel 11
+---
 
-PHP 8.2
+## 👤 Developer
+**Wardina Darmawan**  
+NIM: *202312040*  
+Dosen Pengampu: **Fiki Anggara, S.Kom., M.Kom.**
 
-MySQL
+---
 
-Bootstrap 5
+## 📌 Tujuan
+- Implementasi CRUD  
+- Memahami struktur MVC Laravel  
+- Menggunakan fitur export data  
+- Membangun aplikasi web modern  
 
-SweetAlert (opsional)
+---
 
-👨‍💻 Pembuat
+## 📝 Catatan
+Project dapat dikembangkan menjadi aplikasi manajemen data yang lebih kompleks.
 
-Wardina Darmawan
-NIM: 202312040
-Mata Kuliah: Pemrograman Berbasis Framework
-Dosen Pengampu: Fiki Anggara, S.Kom., M.Kom.
-
-📌 Tujuan Project
-
-Memahami pengembangan aplikasi berbasis Laravel
-
-Menerapkan konsep CRUD secara nyata
-
-Mengimplementasikan fitur tambahan seperti export dan pagination
-
-Mengasah kemampuan pengelolaan data menggunakan framework modern
-
-📝 Catatan
-
-Repository ini hanya digunakan untuk keperluan pembelajaran dan pengumpulan tugas UTS.
-Seluruh kode masih dapat dikembangkan menjadi aplikasi yang lebih lengkap dan profesional.
