@@ -34,7 +34,7 @@ Dibuat sebagai tugas UTS mata kuliah *Pemrograman Berbasis Framework*.
 **NIM:** 202312040  
 **Prodi:** Teknik Informatika  
 **Mata Kuliah:** Pemrograman Berbasis Framework  
-**Dosen Pengampu:** *Bapak Fiki Anggara, S.Kom., M.Kom.*
+**Dosen Pengampu:** *Fiki Anggara, S.Kom., M.Kom.*
 
 ---
 
