@@ -48,9 +48,9 @@ Project ini **dapat dikembangkan lebih lanjut** menjadi sistem manajemen data ya
 ---
 
 ## 📞 Dukungan & Kontak
-- 📧 Email: [email-wardina](mailto:email-wardina)  
-- 📖 Dokumentasi: [Klik di sini](/docs/)  
-- 🎓 Academic Project: [STITEK Bontang](https://stitek.ac.id)  
+- 📧 Email: [email-wardina]  
+- 📖 Dokumentasi: /docs/  
+- 🎓 Academic Project: STITEK Bontang  
 - 📚 Course: Pemrograman Web  
 
 ---
