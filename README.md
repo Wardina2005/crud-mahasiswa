@@ -29,10 +29,12 @@ Dibuat sebagai tugas UTS mata kuliah *Pemrograman Berbasis Framework*.
 
 ---
 
-## 👤 Developer
-**Wardina Darmawan**  
-NIM: *202312040*  
-Dosen Pengampu: **Fiki Anggara, S.Kom., M.Kom.**
+## 👨‍💻 **Developer**
+**Nama:** Wardina Darmawan  
+**NIM:** 202312040  
+**Prodi:** Teknik Informatika  
+**Mata Kuliah:** Pemrograman Berbasis Framework  
+**Dosen Pengampu:** *Bapak Fiki Anggara, S.Kom., M.Kom.*
 
 ---
 
