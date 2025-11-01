@@ -1,51 +1,58 @@
 # 🎓 CRUD Mahasiswa – Laravel 11
+**Lisensi:** Laravel PHP
 
-![Laravel](https://img.shields.io/badge/Laravel-11-red)
-![PHP](https://img.shields.io/badge/PHP-8.2-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
-Aplikasi CRUD untuk mengelola data mahasiswa.  
-Dibuat sebagai tugas UTS mata kuliah *Pemrograman Berbasis Framework*.
+Aplikasi ini dibuat untuk **mengelola data mahasiswa** secara efisien dan modern.  
+Dikembangkan sebagai **tugas UTS** mata kuliah *Pemrograman Berbasis Framework* di **STITEK Bontang**.
 
 ---
 
-## ✨ Fitur
-- ✅ Tambah data mahasiswa  
-- ✅ Edit data mahasiswa  
-- ✅ Hapus data  
-- ✅ Pencarian data  
-- ✅ Export PDF  
-- ✅ Export Excel  
-- ✅ Pagination  
+## ✨ Fitur Utama
+- Menambahkan data mahasiswa baru  
+- Mengubah informasi mahasiswa yang sudah ada  
+- Menghapus data mahasiswa dengan aman  
+- Pencarian data mahasiswa secara cepat  
+- Export data ke format PDF  
+- Export data ke format Excel  
+- Pagination untuk tampilan data yang lebih rapi  
 
 ---
 
-## 🛠 Teknologi
-- Laravel 11  
-- PHP 8.2  
-- MySQL  
-- Bootstrap 5  
+## 🛠 Teknologi yang Digunakan
+- [Laravel 11](https://laravel.com/)  
+- [PHP 8.2](https://www.php.net/)  
+- [MySQL](https://www.mysql.com/)  
+- [Bootstrap 5](https://getbootstrap.com/)  
 
 ---
 
-## 👨‍💻 **Developer**
-**Nama:** Wardina Darmawan  
-**NIM:** 202312040  
-**Prodi:** Teknik Informatika  
-**Mata Kuliah:** Pemrograman Berbasis Framework  
-**Dosen Pengampu:** *Fiki Anggara, S.Kom., M.Kom.*
+## 👨‍💻 Informasi Developer
+- **Nama:** Wardina Darmawan  
+- **NIM:** 202312040  
+- **Prodi:** Teknik Informatika  
+- **Mata Kuliah:** Pemrograman Berbasis Framework  
+- **Dosen Pengampu:** Fiki Anggara, S.Kom., M.Kom.  
 
 ---
 
-## 📌 Tujuan
-- Implementasi CRUD  
-- Memahami struktur MVC Laravel  
-- Menggunakan fitur export data  
-- Membangun aplikasi web modern  
+## 📌 Tujuan Pembuatan Aplikasi
+- Mengimplementasikan konsep **CRUD** pada aplikasi nyata  
+- Memahami dan menerapkan struktur **MVC** di Laravel  
+- Menggunakan fitur export data untuk keperluan laporan  
+- Membangun aplikasi web yang modern, responsif, dan mudah digunakan  
 
 ---
 
-## 📝 Catatan
-Project dapat dikembangkan menjadi aplikasi manajemen data yang lebih kompleks.
+## 📝 Catatan Tambahan
+Project ini **dapat dikembangkan lebih lanjut** menjadi sistem manajemen data yang lebih kompleks, termasuk integrasi laporan statistik dan modul tambahan sesuai kebutuhan.  
 
+---
+
+## 📞 Dukungan & Kontak
+- 📧 Email: [email-wardina](mailto:email-wardina)  
+- 📖 Dokumentasi: [Klik di sini](/docs/)  
+- 🎓 Academic Project: [STITEK Bontang](https://stitek.ac.id)  
+- 📚 Course: Pemrograman Web  
+
+---
+
+Made with ❤️ by **Wardina Darmawan – STITEK Bontang**
